@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "dzshzx-channel",
+      "type": "workflow",
+      "name": "dzshzx Channel Workflow",
+      "description": "Personal channel-driven Trellis workflow with a narrow no-task architecture-review exception.",
+      "path": "marketplace/workflows/dzshzx-channel.md",
+      "tags": ["workflow", "channel", "personal"]
+    }
+  ]
+}
