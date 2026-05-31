@@ -35,6 +35,11 @@ marketplace/
     └── dzshzx-channel.md
 ```
 
+In `marketplace/index.json`, workflow entry paths are relative to the
+marketplace root passed to Trellis (`gh:dzshzx/trellis-workflows/marketplace`).
+For this repository that means the template path is
+`workflows/dzshzx-channel.md`.
+
 ## Usage
 
 ### New Repository

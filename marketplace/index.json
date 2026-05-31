@@ -6,7 +6,7 @@
       "type": "workflow",
       "name": "dzshzx Channel Workflow",
       "description": "Personal channel-driven Trellis workflow with a narrow no-task architecture-review exception.",
-      "path": "marketplace/workflows/dzshzx-channel.md",
+      "path": "workflows/dzshzx-channel.md",
       "tags": ["workflow", "channel", "personal"]
     }
   ]
