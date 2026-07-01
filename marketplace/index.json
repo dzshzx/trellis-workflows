@@ -8,6 +8,14 @@
       "description": "Personal channel-driven Trellis workflow with a narrow no-task architecture-review exception.",
       "path": "workflows/dzshzx-channel.md",
       "tags": ["workflow", "channel", "personal"]
+    },
+    {
+      "id": "dzshzx-docs-ops",
+      "type": "workflow",
+      "name": "dzshzx Docs Ops Workflow",
+      "description": "Docs-repository workflow for runbook/ops truth-source repos: lane-based triage (lookup / routine update / live change / docs campaign), .scratch backlog graduation, main-session editing, check-runbooks validation gate.",
+      "path": "workflows/dzshzx-docs-ops.md",
+      "tags": ["workflow", "docs", "runbooks", "personal"]
     }
   ]
 }
